@@ -2,7 +2,7 @@
 
 ## **Sobre projeto:**
 
-	Esse projeto foi desenvolvido por mim e um amigo que fez as artes, ele foi um desafio para mim mesmo, a ideia era ver se eu conseguia desenvolver um projeto jogavel no periodo de ferias da faculdade. 
+Esse projeto foi desenvolvido por mim e um amigo que fez as artes, ele foi um desafio para mim mesmo, a ideia era ver se eu conseguia desenvolver um projeto jogavel no periodo de ferias da faculdade. 
 
 ## **Linguagem e engine utilizada**
 
